@@ -1,0 +1,137 @@
+nav {
+    background-color: rgb(rgb(130, 240, 240), green, blue)
+    font-family: arial,sans-self;
+    color: black;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+h1{
+    display: inline;
+    margin: 0%;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    margin-left: 1200px;
+
+}
+li{
+    color: brown;
+    cursor: pointer;
+
+}
+li{
+    display: flex;
+    color: brown;
+    cursor: pointer;
+}
+input{
+    width: 80%;
+    padding: 10px;
+
+}
+body{
+    justify-content: center;
+    align-items: center;
+}
+.search-box{
+    border-start-end-radius: initial;
+    padding-left: auto;
+    display: flex;
+    width: 1400px;
+    border-radius: 80px;
+    padding: 50%;
+    background-color: aqua;
+}
+
+.search-box button{
+    background-color: aquamarine;
+    color: azure;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.search-box button:hover{
+    background-color: blanchedalmond;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+}
+.search-box{
+    border-start-start-radius: initial;
+    padding-left: auto;
+    display: flex;
+    width: 1400px;
+    border-radius: 80px;
+    padding: 50px;
+    background-color: aqua;
+}
+.search-box button{
+    background-color: aquamarine;
+    color: aquamarine;
+    padding: 10px;
+    font-size: 18px;
+
+}
+
+.search-box button:hover{
+    background-color: blanchedalmond;
+}
+.categories{
+    justify-content: space-between;
+    display: flex;
+    background: darkturquoise;
+    margin: 20px auto;
+    width: 100%;
+    padding: 10px 5;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.categories{
+    color: gold;
+}
+ .categories:hover{
+    color: rgb(141, 213, 255);
+
+ }
+ 
+ .container{
+    display: flex;
+    justify-content: space-around;
+    display: grid;
+    grid-gap:10px;
+    grid-template-columns: 100px 100px 100px 50px;
+    margin: 10px;
+    padding:20px;
+ }
+ img{
+    width: 150px;
+    height: auto;
+
+ }
+ .image1{
+    justify-content: space-around;
+    border: 2px solid black;
+    width: 160px;
+    padding: 20px;
+    background-color: rgb(141, 213, 255);
+    border-radius: 20px;
+    
+ }
+
+ .image1 button{
+    background-color: rgb(13, 88, 85);
+    height: 30px;
+    width: 160px;
+    color: white;
+ }
+ .image1 button:hover{
+    background-color: aliceblue;
+    color: black;
+
+ } 
+
